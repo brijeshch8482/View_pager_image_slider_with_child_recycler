@@ -32,6 +32,10 @@ Add it in your root build.gradle at the end of repositories:
 	}
   
   -> In activity_main_layou you need to add View Pager and Recycler View
+  
+  
+  
+  
   -> Use 
   
               ViewPagerSliderModal 
